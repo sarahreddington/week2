@@ -16,6 +16,7 @@ ul.nav {
 ul.nav li { 
     float:left;
     position: relative;
+    text-align: center;
 }
 ul.nav a {
     display:block;
@@ -40,6 +41,35 @@ h3 {
 	padding-top: none;
 	font-size: 50px;
 	text-align: center;
+	font-family: Arial, sans-serif;
 
 }
+p {
+	font-family: Arial;
+}
+
+#Phone {
+	width: 33%;
+	display: inline;
+	padding-left: 340px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+#email {
+	width: 33%;
+	display: inline;
+	padding-left: 250px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+#website {
+	width: 33%;
+	display: inline;
+	padding-left: 250px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
 
